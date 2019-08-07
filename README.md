@@ -1,4 +1,4 @@
-# divrem
+# divrem [![Build Status](https://travis-ci.org/BabaOlurin/divrem.svg?branch=master)](https://travis-ci.org/BabaOlurin/divrem)
 Calculates the division result, divide count, quotient and remainder of two numbers.
 ## Installation
 ```javascript
