@@ -1,6 +1,6 @@
 {
   "name": "divrem",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calculates the division result, divide count, quotient and remainder of two numbers.",
   "main": "dist/index.js",
   "scripts": {
