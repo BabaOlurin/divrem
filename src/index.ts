@@ -1,3 +1,10 @@
+/**
+ * Calculates the division result, divide count, quotient and remainder of two numbers.
+ * 
+ * @param dividend - numerator value
+ * @param divisor - denominator value
+ * @returns The divide count, quotient, remainder and division result of `dividend` and `divisor`.
+ */
 export function divrem(dividend: number, divisor: number): { count: number, quotient: number, rem: number, result: number} {    
     let isNotValidNumber = (num) => typeof num !== 'number' || isNaN(num) || !isFinite(num);    
     if (isNotValidNumber(dividend)) throw new Error("Dividend must be a valid number less than infinity.");
