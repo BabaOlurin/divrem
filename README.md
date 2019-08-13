@@ -22,4 +22,6 @@ divrem(17, 11);
 //{ count: 1, quotient: 1, rem: 6, result: 1.5454545454545454 }
 divrem(2.3, 1.4)
 //{ count: 1, quotient: 1, rem: 0.8999999999999999, result: 1.6428571428571428 }
+divrem(-7,4)
+//{ count: 1, quotient: -1, rem: -3, result: -1.75 }
 ```
